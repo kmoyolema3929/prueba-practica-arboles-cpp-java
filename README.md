@@ -29,7 +29,7 @@ Cada estudiante contiene la siguiente información:
 
 ---
 
-# 🗂️ Estructura del Proyecto
+#  Estructura del Proyecto
 
 ```text
 prueba-practica-arboles-cpp-java/
@@ -116,7 +116,7 @@ Seleccione una opción:
 
 ---
 
-# ✅ Funcionalidades Implementadas
+#  Funcionalidades Implementadas
 
 | Función | Descripción |
 |---|---|
@@ -242,21 +242,21 @@ Durante el desarrollo del proyecto se aplicaron conceptos fundamentales de:
 
 #  Características del Código
 
-✅ Código modular y organizado
+- Código modular y organizado
 
-✅ Separación de responsabilidades por clases
+- Separación de responsabilidades por clases
 
-✅ Uso de recursividad en operaciones del árbol
+- Uso de recursividad en operaciones del árbol
 
-✅ Validación de cédulas duplicadas
+- Validación de cédulas duplicadas
 
-✅ Validación de rangos de notas
+- Validación de rangos de notas
 
-✅ Implementación de BFS con Queue
+- Implementación de BFS con Queue
 
-✅ Interfaz de consola amigable
+- Interfaz de consola amigable
 
-✅ Comentarios explicativos en métodos importantes
+- Comentarios explicativos en métodos importantes
 
 ---
 
@@ -322,7 +322,7 @@ https://github.com/kmoyolema3929/prueba-practica-arboles-cpp-java.git
 
 ---
 
-# 👨‍💻 Autor
+#  Autor
 
 - Nombre: Katherine Moyolema
 - Carrera: Ingeniería en Software
