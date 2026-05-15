@@ -268,49 +268,22 @@ Las capturas de ejecución se encuentran en la carpeta:
 capturas/
 ```
 
-### Evidencias incluidas:
+### 📸 Evidencias incluidas
 
-## Menú Principal
-![Menú Principal](capturas/menu_principal.png)
-
-## Insertar Estudiante
-![Insertar Estudiante](capturas/insertar_estudiante.png)
-
-## Buscar Estudiante
-![Buscar Estudiante](capturas/buscar_estudiante.png)
-
-## Eliminar Estudiante
-![Eliminar Estudiante](capturas/eliminar_estudiante.png)
-
-## Recorrido Inorden
-![Recorrido Inorden](capturas/recorrido_inorden.png)
-
-## Recorrido Preorden
-![Recorrido Preorden](capturas/recorrido_preorden.png)
-
-## Recorrido Postorden
-![Recorrido Postorden](capturas/recorrido_postorden.png)
-
-## Recorrido por Niveles (BFS)
-![BFS](capturas/niveles_BFS.png)
-
-## Contar Estudiantes
-![Contar Estudiantes](capturas/contar_estudiantes.png)
-
-## Altura del Árbol
-![Altura del Árbol](capturas/altura_arbol.png)
-
-## Mayor Nota
-![Mayor Nota](capturas/mayor_nota.png)
-
-## Menor Nota
-![Menor Nota](capturas/menor_nota.png)
-
-## Estudiantes Aprobados
-![Aprobados](capturas/aprobados.png)
-
-## Estudiantes Reprobados
-![Reprobados](capturas/reprobados.png)
+- [Menú Principal](capturas/menu_principal.png)
+- [Insertar Estudiante](capturas/insertar_estudiante.png)
+- [Buscar Estudiante](capturas/buscar_estudiante.png)
+- [Eliminar Estudiante](capturas/eliminar_estudiante.png)
+- [Recorrido Inorden](capturas/recorrido_inorden.png)
+- [Recorrido Preorden](capturas/recorrido_preorden.png)
+- [Recorrido Postorden](capturas/recorrido_postorden.png)
+- [Recorrido BFS](capturas/niveles_BFS.png)
+- [Contar Estudiantes](capturas/contar_estudiantes.png)
+- [Altura del Árbol](capturas/altura_arbol.png)
+- [Mayor Nota](capturas/mayor_nota.png)
+- [Menor Nota](capturas/menor_nota.png)
+- [Estudiantes Aprobados](capturas/aprobados.png)
+- [Estudiantes Reprobados](capturas/reprobados.png)
 
 ---
 
