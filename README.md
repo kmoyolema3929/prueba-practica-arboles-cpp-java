@@ -1,6 +1,6 @@
-# 🎓 Sistema de Gestión de Estudiantes - Árbol Binario de Búsqueda (ABB)
+#  Sistema de Gestión de Estudiantes - Árbol Binario de Búsqueda (ABB)
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto implementa un sistema académico para la **Universidad Técnica de Ambato** utilizando un **Árbol Binario de Búsqueda (ABB)** en Java.
 
@@ -16,7 +16,7 @@ Cada estudiante se organiza dentro del árbol según su número de cédula, perm
 
 ---
 
-# 👨‍🎓 Datos almacenados por estudiante
+# Datos almacenados por estudiante
 
 Cada estudiante contiene la siguiente información:
 
@@ -52,7 +52,7 @@ README.md
 
 ---
 
-# ⚙️ Requisitos Previos
+#  Requisitos Previos
 
 Antes de ejecutar el proyecto necesitas:
 
@@ -62,7 +62,7 @@ Antes de ejecutar el proyecto necesitas:
 
 ---
 
-# ▶️ Compilación y Ejecución
+#  Compilación y Ejecución
 
 ## Compilar el proyecto
 
@@ -78,7 +78,7 @@ java -cp src Main
 
 ---
 
-# 🖥️ Menú Principal del Sistema
+#  Menú Principal del Sistema
 
 ```text
 =========================================
@@ -127,9 +127,9 @@ Seleccione una opción:
 
 ---
 
-# 🌳 Tipos de Recorridos del Árbol
+#  Tipos de Recorridos del Árbol
 
-## 🔹 Recorrido Inorden
+##  Recorrido Inorden
 **Izquierdo → Raíz → Derecho**
 
 Muestra los estudiantes ordenados por cédula de menor a mayor.
@@ -139,7 +139,7 @@ Permite visualizar los datos ordenados.
 
 ---
 
-## 🔹 Recorrido Preorden
+##  Recorrido Preorden
 **Raíz → Izquierdo → Derecho**
 
 Primero visita la raíz y luego sus subárboles.
@@ -149,7 +149,7 @@ Primero visita la raíz y luego sus subárboles.
 
 ---
 
-## 🔹 Recorrido Postorden
+##  Recorrido Postorden
 **Izquierdo → Derecho → Raíz**
 
 Primero recorre hijos y al final la raíz.
@@ -159,7 +159,7 @@ Primero recorre hijos y al final la raíz.
 
 ---
 
-## 🔹 Recorrido BFS (Por Niveles)
+## Recorrido BFS (Por Niveles)
 
 Recorre el árbol nivel por nivel utilizando una cola (`Queue`).
 
@@ -168,7 +168,7 @@ Permite recorrer el árbol horizontalmente.
 
 ---
 
-# 📌 Ejemplo de Uso
+#  Ejemplo de Uso
 
 ## Insertar estudiante
 
@@ -205,7 +205,7 @@ Nivel: Tercero
 
 ---
 
-# 🛠️ Tecnologías Utilizadas
+#  Tecnologías Utilizadas
 
 - Lenguaje: Java
 - Programación Orientada a Objetos (POO)
@@ -216,7 +216,7 @@ Nivel: Tercero
 
 ---
 
-# 📚 Conceptos Aplicados
+#  Conceptos Aplicados
 
 Durante el desarrollo del proyecto se aplicaron conceptos fundamentales de:
 
@@ -231,7 +231,7 @@ Durante el desarrollo del proyecto se aplicaron conceptos fundamentales de:
 
 ---
 
-# ✨ Características del Código
+#  Características del Código
 
 ✅ Código modular y organizado
 
@@ -251,7 +251,7 @@ Durante el desarrollo del proyecto se aplicaron conceptos fundamentales de:
 
 ---
 
-# 📸 Evidencias
+#  Evidencias
 
 Las capturas de ejecución se encuentran en la carpeta:
 
@@ -269,25 +269,7 @@ capturas/
 
 ---
 
-# 🔧 Comandos Git Utilizados
-
-```bash
-git init
-git add .
-git commit -m "Commit inicial: estructura del proyecto"
-
-git commit -m "Implementación de inserción y búsqueda"
-
-git commit -m "Agregados los recorridos del árbol"
-
-git commit -m "Implementadas funciones avanzadas"
-
-git commit -m "Versión final del proyecto"
-```
-
----
-
-# 🌐 Repositorio GitHub
+#  Repositorio GitHub
 
 ```text
 https://github.com/kmoyolema3929/prueba-practica-arboles-cpp-java.git
